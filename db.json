@@ -1,5 +1,4 @@
 {
-  "__single": true,
   "videos": [
     {
       "id": "d58f84a5-68e5-4d9b-bad6-b8b1a14c8b18",
@@ -72,23 +71,6 @@
       "imagen": "/img/9.jpg",
       "video": "https://www.youtube.com/watch?v=o8x_n4Px1N0",
       "descripcion": "¿Es un lenguaje de programación? ¿Es un ambiente de desarrollo? ¿Una herramienta? En este video nuestro instructor, Leonardo Castillo, nos explica qué es NodeJS y para qué sirve."
-    }
-  ],
-  "categorias": [
-    {
-      "id": 1,
-      "nombre": "gestion",
-      "colorPrimario": "#8e44ad"
-    },
-    {
-      "id": 2,
-      "nombre": "frontend",
-      "colorPrimario": "#3498db"
-    },
-    {
-      "id": 3,
-      "nombre": "backend",
-      "colorPrimario": "#f1c40f"
     }
   ]
 }
